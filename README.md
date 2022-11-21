@@ -1,27 +1,41 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
-
 # Egg Timer
 
-## Our Goal
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/ahcaio/EggTimer/blob/main/LICENSE)
 
-This module will be a mix of tutorials and challenges. Most importantly, we want you to get comfortable with looking up how to do something you've never done before. In certain places of this module, you’ll need to follow the 5 step process you learnt in the Xylophone module and use Google search, StackOverflow and Apple Documentation to make your code do what you want it to. But there are also other parts where we’ll take you step-by-step through new Swift programming concepts. 
+## Objetivo
 
-## What You'll Make
+O objetivo será construir um aplicativo de temporizador de ovos para cozinhar seus ovos com perfeição, dependendo de como você prefere seus ovos.
 
-You’ll be building a beautiful egg timer app to boil your eggs to perfection depending on how you prefer your eggs. 
+## Layout mobile
+<img src="https://github.com/ahcaio/EggTimer/blob/main/Documentation/Simulator%20Screen%20Shot%20-%20iPhone%2014%20-%202022-11-21%20at%2015.17.46.png" width="250px" />  <img src="https://github.com/ahcaio/EggTimer/blob/main/Documentation/Simulator%20Screen%20Shot%20-%20iPhone%2014%20-%202022-11-21%20at%2015.17.55.png" width="250px" />  
 
-## What you will learn
+## O que eu aprendi?
 
-* Swift Collection types - Dictionaries
+* Swift Collection types - Dicionários
 * The Swift Timer API
-* Conditional statements - IF/ELSE
-* Conditional statements - Switch
-* Functions with outputs
-* How to use the ProgressView
+* Estrutura Condicional  - IF/ELSE
+* Estrutura Condicional - Switch
+* Funçõescom outputs
+* Como utilizar ProgressView
 
+# Tecnologias utilizadas
+- Swift 5
+- Xcode 14
 
+# Como executar o projeto
 
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
+## Mobile
+Pré-requisitos: Xcode13, iOS 15
 
-![End Banner](Documentation/readme-end-banner.png)
+```bash
+# clonar repositório
+git clone https://github.com/ahcaio/EggTimer
+```
+
+# Autor
+
+Caio Cesar Alves de Limeira
+
+https://www.linkedin.com/in/devcaio/
+
 
