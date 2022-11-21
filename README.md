@@ -15,7 +15,7 @@ O objetivo será construir um aplicativo de temporizador de ovos para cozinhar s
 * The Swift Timer API
 * Estrutura Condicional  - IF/ELSE
 * Estrutura Condicional - Switch
-* Funçõescom outputs
+* Funções com outputs
 * Como utilizar ProgressView
 
 # Tecnologias utilizadas
